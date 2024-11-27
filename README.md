@@ -1,29 +1,29 @@
 ## RBAC Dashboard
 
 ## Description
+The RBAC Dashboard (Role-Based Access Control Dashboard) is a user-friendly web application designed to efficiently manage users and their roles. With an intuitive interface and support for CRUD (Create, Read, Update, Delete) operations, the application is suitable for both mobile and desktop devices.
 
-The RBAC Dashboard is a React-based web application that allows users to manage a list of users by performing CRUD (Create, Read, Update, Delete) operations. The interface is enhanced with smooth animations using the AOS (Animate On Scroll) library, making the user experience interactive and visually appealing.
+Enhanced with animations powered by the AOS (Animate On Scroll) library, the dashboard provides an engaging and seamless user experience. Whether you’re adding roles or managing permissions, the app ensures flexibility and responsiveness.
 
 ---
 
 ## Features
 
-- Add new users to the system.
-- Edit existing user details.
-- Delete users from the list.
-- Add roles for the user.
-- Allowed custom permissions to add.
-- Responsive design for mobile and desktop devices.
-- Smooth animations using AOS library.
+-User Management: Add, edit, and delete users with ease.
+-Role Management: Assign and manage roles for users.
+-Custom Permissions: Create and add dynamic permissions for users.
+-Responsive Design: Adapts seamlessly to both mobile and desktop devices.
+-Smooth Animations: Leverages AOS for scroll-based animations.
+-Clean UI: A modern, clean design powered by Bootstrap.
 
 ---
 
 ## Technologies Used
 
-- **ReactJS**: For building the user interface.
-- **JavaScript (ES6+)**: For implementing logic.
-- **AOS (Animate On Scroll)**: For smooth animations on scroll.
-- **Bootstrap**: For styling and responsiveness.
+-**ReactJS**: For building a dynamic and interactive user interface.
+-**JavaScript (ES6+)**: For implementing functionality and logic.
+-**AOS (Animate On Scroll)**: For sleek scroll-based animations.
+-**Bootstrap**: For a responsive and visually appealing design.
 
 ---
 
@@ -56,6 +56,7 @@ Follow these steps to set up the project on your local machine:
 
 Below is the folder structure of the project:
 
+ ```bash
 project-name/
 ├── src/
 │ ├── components/ # Contains reusable components (e.g., UserModal, RoleModal)
@@ -66,7 +67,7 @@ project-name/
 ├── public/ # Static files (e.g., index.html)
 ├── package.json # Project dependencies and scripts
 ├── README.md # Project documentation
-
+  ```
 ---
 
 ## Contributing
