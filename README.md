@@ -9,21 +9,21 @@ Enhanced with animations powered by the AOS (Animate On Scroll) library, the das
 
 ## Features
 
--User Management: Add, edit, and delete users with ease.
--Role Management: Assign and manage roles for users.
--Custom Permissions: Create and add dynamic permissions for users.
--Responsive Design: Adapts seamlessly to both mobile and desktop devices.
--Smooth Animations: Leverages AOS for scroll-based animations.
--Clean UI: A modern, clean design powered by Bootstrap.
+- User Management: Add, edit, and delete users with ease.
+- Role Management: Assign and manage roles for users.
+- Custom Permissions: Create and add dynamic permissions for users.
+- Responsive Design: Adapts seamlessly to both mobile and desktop devices.
+- Smooth Animations: Leverages AOS for scroll-based animations.
+- Clean UI: A modern, clean design powered by Bootstrap.
 
 ---
 
 ## Technologies Used
 
--**ReactJS**: For building a dynamic and interactive user interface.
--**JavaScript (ES6+)**: For implementing functionality and logic.
--**AOS (Animate On Scroll)**: For sleek scroll-based animations.
--**Bootstrap**: For a responsive and visually appealing design.
+- **ReactJS**: For building a dynamic and interactive user interface.
+- **JavaScript (ES6+)**: For implementing functionality and logic.
+- **AOS (Animate On Scroll)**: For sleek scroll-based animations.
+- **Bootstrap**: For a responsive and visually appealing design.
 
 ---
 
