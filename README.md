@@ -35,7 +35,7 @@ Follow these steps to set up the project on your local machine:
    Open your terminal and clone the repository:
 
    ```bash
-   git clone https://github.com/username/project-name.git
+   git clone https://github.com/Rajat4323/RBAC-UI.git
 
    ```
 
